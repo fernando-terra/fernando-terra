@@ -1,4 +1,4 @@
-![cover](https://github.com/fernandoterradev/fernandoterradev/assets/153857654/d910bf24-65b3-4183-8e42-ce5721a93d09)
+![cover](https://github.com/fernando-terra/fernando-terra/assets/41837228/3509eb85-2a05-4197-8f0d-ea6ee24b81cf)
   
 # Hi there, I'm Fernando Terra 👋🏻
 
