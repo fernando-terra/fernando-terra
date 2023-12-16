@@ -42,7 +42,8 @@ As an engineer, my mission is to devise innovative solutions to the challenges p
 
 ## 🌱 I'm currently learning
 
-- Go
+- Principles of Go
+- Data Science w/ Python
 - Advanced Design Patterns with C#
 
 ## 📈 Github Stats
