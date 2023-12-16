@@ -47,6 +47,6 @@ As an engineer, my mission is to devise innovative solutions to the challenges p
 
 ## 📈 Github Stats
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=fernandoterradev)](https://github.com/fernandoterradev)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=fernandoterra)](https://github.com/fernandoterra)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoterradev)](https://github.com/fernandoterradev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoterra)](https://github.com/fernandoterra)
