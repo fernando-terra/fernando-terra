@@ -7,7 +7,7 @@ Brazilian Software Engineer · Backend specialist · Cloud & AI enthusiast
 
 ## 🧠 About me
 
-I'm a Software Engineer graduated from the Federal University of Uberlândia (UFU), currently serving as **CTO at Festpay**, a fintech platform for the entertainment market.
+I'm a Software Engineer graduated from the Federal University of Uberlândia (UFU), currently serving as **CTO & Co-founder at Festpay** — a startup revolutionizing school canteen management in Brazil through digital payments, facial biometrics, and smart self-service solutions.
 
 My day-to-day involves leading engineering teams, designing scalable cloud architectures, and building intelligent systems that turn complexity into real business value.
 
@@ -38,7 +38,7 @@ I'm currently exploring the frontier of **AI agents and autonomous systems** —
 
 ## 🚀 Currently working on
 
-- **Festpay** — scaling a fintech platform for the entertainment market
+- **Festpay** — digitalizing school canteens across Brazil (payments, biometrics, self-service)
 - **AI Systems** — exploring multi-agent architectures with LLMs
 - **Side projects** — automation, cloud infra, and developer tooling
 
